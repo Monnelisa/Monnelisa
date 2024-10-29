@@ -24,8 +24,9 @@ Completed a learnership program where I practiced selling AWS cloud solutions, m
 - ✅ Quality Assurance >> Currently enrolled in a quality assurance elective, where I am creating tests to ensure software quality and reliability. This experience enhances my skills in testing methodologies and software validation processes.
 
 📫 **How to reach me**: 
--🔗 LinkedIn >> https://www.linkedin.com/in/monnelisa-mangalie-a1b395215/
--📧 Email >> monnelisa01mangalie@gmail.com
+
+🔗 LinkedIn >> https://www.linkedin.com/in/monnelisa-mangalie-a1b395215/
+📧 Email >> monnelisa01mangalie@gmail.com
 
 
 😄 **Pronouns**: ... nothing fancy just she/her
