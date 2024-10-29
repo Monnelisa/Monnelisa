@@ -1,6 +1,5 @@
 ## Hello Hi 👋
 
-<!--
 ✨ Welcome to my GitHub profile! I'm a software development student nearing graduation, passionate about coding and cloud solutions, with hands-on experience in multiple programming languages and cloud technologies. ✨ 
 
 Here are some ideas to get you started:
@@ -33,4 +32,3 @@ Completed a learnership program where I practiced selling AWS cloud solutions, m
 
 ⚡ **Fun fact**: ...I was named after the painting of the' "Mona Lisa" but home-affairs spelled my name wrong so now I'm named Monnelisa
 
--->
