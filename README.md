@@ -20,7 +20,7 @@ Knowledgeable in user experience and interface design, aiming to create user-fri
 Completed a learnership program where I practiced selling AWS cloud solutions, marketing, and presenting cloud solutions, along with troubleshooting technical issues.
 
 🚀 **What I’m Working On**:
-- 🏗️Developers Hangman Game >>  A terminal-based Hangman game designed for developers, where students can learn programming languages. The game features three phases: Beginner, Medium, and Hard, allowing players to progressively challenge themselves. Players select a programming language, and the questions are based on that language. The answers consist of words with missing letters, providing an engaging way to reinforce programming vocabulary and concepts. The terminal version is complete, and I am currently working on developing the website version of the game.
+- 🏗️Developers Hangman Game >>  A terminal-based Hangman game and web-based Hangman game designed for developers, where students can learn programming languages. The game features three phases: Beginner, Medium, and Hard, allowing players to progressively challenge themselves. Players select a programming language, and the questions are based on that language. The answers consist of words with missing letters, providing an engaging way to reinforce programming vocabulary and concepts. The terminal version is complete, and I am currently working on developing the website version of the game.
 - ✅ Quality Assurance >> Currently enrolled in a quality assurance elective, where I am creating tests to ensure software quality and reliability. This experience enhances my skills in testing methodologies and software validation processes.
 
 📫 **How to reach me**: 
