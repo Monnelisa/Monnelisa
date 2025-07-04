@@ -1,6 +1,6 @@
 ## Hello Hi 👋
 
-✨ Welcome to my GitHub profile! I'm a software development student nearing graduation, passionate about coding and cloud solutions, with hands-on experience in multiple programming languages and cloud technologies. ✨ 
+✨ Welcome to my GitHub profile!
 
 Here are some ideas to get you started:
 
