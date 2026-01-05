@@ -43,7 +43,7 @@ I’m intentionally growing toward a hybrid QA + Technical Project Management / 
 
 ## 📫Let's Connect: 
 
-🔗 LinkedIn >> https://www.linkedin.com/in/monnelisa-mangalie-a1b395215/
-📧 Email >> monnelisa01mangalie@gmail.com
+- 🔗 LinkedIn >> https://www.linkedin.com/in/monnelisa-mangalie-a1b395215/
+- 📧 Email >> monnelisa01mangalie@gmail.com
 
 
