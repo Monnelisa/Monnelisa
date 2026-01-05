@@ -29,7 +29,7 @@ Assist with project coordination activities, including sprint support, progress 
 Contribute to client briefs and scope documentation for new features and enhancements.
 Coordinate internal and client sign-off on approved briefs before development begins to reduce scope creep and rework.
 
-🚀 **What I’m Working On**:
+## 🚀What I’m Working On:
 - 🏗️Code Blanks Game >>  An interactive learning game designed to help developers and students learn programming concepts in a fun, practical way.
 Features:
 Multiple learning modes: Fill the Blanks, Debug This, and Multiple Choice
@@ -37,16 +37,14 @@ Supports multiple programming languages
 Level-based difficulty: Beginner, Medium, Hard
 Focus on reinforcing programming vocabulary and logical thinking
 
-🎯 **Career Focus**
+## 🎯Career Focus
 
 I’m intentionally growing toward a hybrid QA + Technical Project Management / Delivery role, where I can combine quality assurance, requirements clarity, and delivery coordination to help teams ship reliable, high-quality software.
 
-📫 **Let's Connect**: 
+## 📫Let's Connect: 
 
 🔗 LinkedIn >> https://www.linkedin.com/in/monnelisa-mangalie-a1b395215/
 📧 Email >> monnelisa01mangalie@gmail.com
 
-😄 **Pronouns**: ... nothing fancy just she/her
-
-⚡ **Fun fact**: ...I was named after the painting "Mona Lisa" but home-affairs spelled my name wrong so now I'm named Monnelisa
+##⚡Fun fact: ...I was named after the painting "Mona Lisa" but home-affairs spelled my name wrong so now I'm named Monnelisa
 
