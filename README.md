@@ -46,5 +46,4 @@ I’m intentionally growing toward a hybrid QA + Technical Project Management / 
 🔗 LinkedIn >> https://www.linkedin.com/in/monnelisa-mangalie-a1b395215/
 📧 Email >> monnelisa01mangalie@gmail.com
 
-##⚡Fun fact: ...I was named after the painting "Mona Lisa" but home-affairs spelled my name wrong so now I'm named Monnelisa
 
