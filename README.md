@@ -13,8 +13,8 @@ Experience building, presenting, and troubleshooting cloud-based solutions
 Comfortable working across technical and non-technical teams
 
 - 💻 **Technical Skills**: 
-Languages: Python, Java (working knowledge), JavaScript (basic), C# (basic), HTML, CSS, SQL (basic)
-Testing & QA: Manual Testing, Automated Testing (basic), Regression Testing, UAT, Test Case Design, Bug Tracking
+Languages: Python, Java, JavaScript, C#, HTML, CSS, SQL
+Testing & QA: Manual Testing, Automated Testing , Regression Testing, UAT, Test Case Design, Bug Tracking
 Tools: Selenium WebDriver, Postman, Jira, TestRail, Swagger, GitHub Actions
 Practices: Agile / SDLC, defect lifecycle, release readiness
 
