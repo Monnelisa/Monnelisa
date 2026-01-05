@@ -1,33 +1,52 @@
-## Hello Hi 👋
+## Hello Hi 👋I’m Monnelisa
 
 ✨ Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I’m a Junior Quality Assurance Analyst with growing experience in technical project coordination and delivery support, currently working in a startup environment where I wear multiple hats across QA, documentation, and feature delivery.
 
 - 🎓 **Education**:
-Completed my Diploma in Information Technology specializing in Systems Development at WeThinkCode.
+National Diploma in Information Technology(Systems Developmen) - WeThinkCode.
 
 - 🌐 **Cloud Skills**:
-I’m AWS Cloud Practitioner certified, with experience in building and presenting cloud solutions, as well as troubleshooting technical issues.
+AWS Certified Cloud Practitioner
+Experience building, presenting, and troubleshooting cloud-based solutions
+Comfortable working across technical and non-technical teams
 
-- 💻 **Programming Proficiency**: 
-Proficient in Python, Java, JavaScript, HTML, CSS, and C#.
-
-- 🎨 **UI/UX Design**:
-Knowledgeable in user experience and interface design, aiming to create user-friendly and visually appealing solutions.
+- 💻 **Technical Skills**: 
+Languages: Python, Java (working knowledge), JavaScript (basic), C# (basic), HTML, CSS, SQL (basic)
+Testing & QA: Manual Testing, Automated Testing (basic), Regression Testing, UAT, Test Case Design, Bug Tracking
+Tools: Selenium WebDriver, Postman, Jira, TestRail, Swagger, GitHub Actions
+Practices: Agile / SDLC, defect lifecycle, release readiness
 
 ## 💼Professional Experience:
-I have experience selling AWS cloud solutions, marketing, and presenting cloud solutions, along with troubleshooting technical issues. I am currently working as an Intern Quality Assurance Software Tester.Executing manual and automated test cases to validate system functionality and performance. Identifying and tracking bugs using issue-tracking tools, ensuring software quality. Conducting user acceptance testing alongside stakeholders before software deployment.
+
+**Junior Quality Assurance Analyst | Startup Environment**
+Execute manual and automated test cases to validate system functionality, performance, and usability.
+Identify, document, and track bugs using issue-tracking tools, collaborating closely with developers.
+Perform regression and smoke testing to ensure release stability.
+Support User Acceptance Testing (UAT) with stakeholders prior to deployment.
+Assist with project coordination activities, including sprint support, progress tracking, and delivery readiness.
+Contribute to client briefs and scope documentation for new features and enhancements.
+Coordinate internal and client sign-off on approved briefs before development begins to reduce scope creep and rework.
 
 🚀 **What I’m Working On**:
-- 🏗️Code Blanks Game >>  A terminal-based Hangman game and web-based Code Blanks game designed for developers, where students can learn programming languages. The game features three phases: Beginner, Medium, and Hard, allowing players to progressively challenge themselves. Players select a programming language, and the questions are based on that language. The answers consist of words with missing letters, providing an engaging way to reinforce programming vocabulary and concepts. The terminal version is complete, and I am currently working on developing the website version of the game.
+- 🏗️Code Blanks Game >>  An interactive learning game designed to help developers and students learn programming concepts in a fun, practical way.
+Features:
+Multiple learning modes: Fill the Blanks, Debug This, and Multiple Choice
+Supports multiple programming languages
+Level-based difficulty: Beginner, Medium, Hard
+Focus on reinforcing programming vocabulary and logical thinking
 
-📫 **How to reach me**: 
+🎯 **Career Focus**
+
+I’m intentionally growing toward a hybrid QA + Technical Project Management / Delivery role, where I can combine quality assurance, requirements clarity, and delivery coordination to help teams ship reliable, high-quality software.
+
+📫 **Let's Connect**: 
 
 🔗 LinkedIn >> https://www.linkedin.com/in/monnelisa-mangalie-a1b395215/
 📧 Email >> monnelisa01mangalie@gmail.com
 
 😄 **Pronouns**: ... nothing fancy just she/her
 
-⚡ **Fun fact**: ...I was named after the painting of the' "Mona Lisa" but home-affairs spelled my name wrong so now I'm named Monnelisa
+⚡ **Fun fact**: ...I was named after the painting "Mona Lisa" but home-affairs spelled my name wrong so now I'm named Monnelisa
 
